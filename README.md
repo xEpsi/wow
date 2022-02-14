@@ -1,4 +1,4 @@
-# __xEpsi.github.io__
+# __wow__
 #### A simple node.js website made using Three.js and Vite.
 #### *Requirements: Node.js v14+, any text editor, any terminal.*
 #### *(you can install Node.js* [*here*](https://nodejs.org/en/download/)*)*
